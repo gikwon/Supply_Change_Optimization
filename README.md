@@ -25,5 +25,5 @@ This project explores **supply chain planning and optimization** using **linear 
 
 ## Files Included  
 - **`supply_chain_optimization.ipynb`** – Main Jupyter Notebook with problem formulation and solutions.  
-- **`data files`** – Example input & output files from the optimization models.  
+- **`12-data-files`** – Example input & output files from the optimization models.  
 - **`README.md`** – Project overview and usage instructions.  
